@@ -1,1 +1,3 @@
 First sample with git.
+HI, 
+This is Manoj and you are in mty git profile.
